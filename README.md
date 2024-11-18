@@ -1,5 +1,5 @@
 # Victoria
-![Bienvenue](profile./banner.png)
+![Bienvenue](https://github.com/Victo-ri/Victoria/blob/main/profile.png?raw=true)./banner.png)
 # 👋 Bonjour ! Je suis Victoria!
 
 Je suis une personne créative et motivée, passionnée par le développement web et les nouvelles technologies. J'aime explorer de nouvelles idées et créer des projets qui ont un impact positif. Mon objectif est de continuer à apprendre et à évoluer dans le domaine de la programmation.
