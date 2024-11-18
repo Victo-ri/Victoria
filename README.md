@@ -1,4 +1,3 @@
-# Victoria
 ![Bienvenue](https://github.com/Victo-ri/Victoria/blob/main/profile.png?raw=true)
 # 👋 Bonjour ! Je suis Victoria!
 
@@ -15,8 +14,11 @@ Je suis une personne créative et motivée, passionnée par le développement we
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victo-ri&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victo-ri&layout=compact&theme=radical)
