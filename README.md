@@ -4,7 +4,7 @@
 Je suis une personne créative et motivée, passionnée par le développement web et les nouvelles technologies. J'aime explorer de nouvelles idées et créer des projets qui ont un impact positif. Mon objectif est de continuer à apprendre et à évoluer dans le domaine de la programmation.
 
 ## 🔧 Mes compétences principales :
-- Développement web (HTML, CSS, bases de JavaScript)
+- Développement web (HTML, CSS)
 - Gestion de projets et résolution de problèmes
 - Créativité et collaboration en équipe
 
@@ -23,3 +23,4 @@ Je suis une personne créative et motivée, passionnée par le développement we
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Victo-ri&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victo-ri&layout=compact&theme=radical)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?username=Victo-ri&theme=radical)
