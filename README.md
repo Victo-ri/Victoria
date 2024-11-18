@@ -23,4 +23,4 @@ Je suis une personne créative et motivée, passionnée par le développement we
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Victo-ri&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victo-ri&layout=compact&theme=radical)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?username=Victo-ri&theme=radical)
+
