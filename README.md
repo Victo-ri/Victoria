@@ -1,4 +1,5 @@
 # Victoria
+![Bienvenue](profile./banner.png)
 # 👋 Bonjour ! Je suis Victoria!
 
 Je suis une personne créative et motivée, passionnée par le développement web et les nouvelles technologies. J'aime explorer de nouvelles idées et créer des projets qui ont un impact positif. Mon objectif est de continuer à apprendre et à évoluer dans le domaine de la programmation.
@@ -11,7 +12,7 @@ Je suis une personne créative et motivée, passionnée par le développement we
 ## 🎯 Mes objectifs :
 - Participer à des projets innovants et enrichir mes compétences techniques.
 - Trouver une alternance pour contribuer à des projets ambitieux tout en continuant ma formation.
-![Bienvenue](profile./banner.png)
+
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
