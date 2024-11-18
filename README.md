@@ -16,9 +16,10 @@ Je suis une personne créative et motivée, passionnée par le développement we
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
+## 🚀 Projet
+[Harry Potter Fan site](https://victo-ri.github.io/harrypotterfansite/)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victo-ri&show_icons=true&theme=radical)
-
+## 📊 Statistiques de contribution
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Victo-ri&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victo-ri&layout=compact&theme=radical)
